@@ -9,9 +9,5 @@ int a,b;
   cin>>b;
   int result;
   cout<<"this is your sum"<<result<<endl;
-  
-
-
-
 return 0;
 }
